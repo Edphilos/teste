@@ -2,7 +2,7 @@
 
 readme de exemplo
 
-git init
+git init</br>
 git status
 git add ""
 git commit -m ""
