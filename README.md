@@ -2,13 +2,14 @@
 
 readme de exemplo
 
-git init</br>
-git status
-git add ""
-git commit -m ""
-git remote add origin ""
-git remote -v
-git push -u origin master
-git pull
-git checkout -b "nome da branch"
-git checkout master
+<b>Principais comandos utilizados para gerenciar o versionamento:</b></br>
+git init </br>
+git status </br>
+git add "" </br>
+git commit -m "" </br>
+git remote add origin "" </br>
+git remote -v </br>
+git push -u origin master </br>
+git pull </br>
+git checkout -b "nome da branch" </br>
+git checkout master.
